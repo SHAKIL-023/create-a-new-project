@@ -1,0 +1,40 @@
+body {
+  background-color: aquamarine;
+}
+div {
+  background-color: blueviolet;
+  margin: 200px;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0px 5px 5px burlywood;
+  color: aquamarine;
+  display: inline;
+  display: flex;
+}
+h2 {
+  background-color: bisque;
+  color: blueviolet;
+  margin: 30px;
+  text-align: center;
+  font-style: inherit;
+  padding: 40px;
+  border-radius: 200px;
+  font-size: 40px;
+}
+.head {
+  color: aquamarine;
+}
+.link {
+  text-align: center;
+  /* display: flex; */
+}
+.git {
+  background-color: red;
+  /* display: flex; */
+  display: inline-block;
+}
+img {
+  width: 350px;
+  border-radius: 120px;
+  box-shadow: 0px 10px 5px white;
+}
